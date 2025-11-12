@@ -9,3 +9,4 @@ def get_user_choice():
             print("Invalid input. Please choose 'Rock', 'Paper', or 'Scissors'.")
 player_choice = get_user_choice()
 print(f"You chose: {player_choice}")
+import random
