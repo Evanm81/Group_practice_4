@@ -11,7 +11,7 @@ player_choice = get_user_choice()
 print(f"You chose: {player_choice}")
 import random
 
-choices="rock","paper","scissors"]]
+choices=["rock","paper","scissors"]
 
 Computer_choice=random.choice(choices)
 print(f"the computer chose {Computer_choice}")
