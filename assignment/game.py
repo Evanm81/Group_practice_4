@@ -1,1 +1,1 @@
-print("Welcome to Rock-Paper-Scissors!")
+print("Welcome to Rock-Paper-Scissors")
